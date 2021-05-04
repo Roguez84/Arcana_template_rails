@@ -2,12 +2,12 @@ class PagesController < ApplicationController
   def index
   end
 
-  def left-sidebar
+  def left_sidebar
   end
 
-  def right-sidebar
+  def right_sidebar
   end
 
-  def no-sidebar
+  def no_sidebar
   end
 end
