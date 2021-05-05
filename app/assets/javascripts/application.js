@@ -13,4 +13,10 @@
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
+//= require jsERB/jquery.min.js
+//= require jsERB/jquery.dropotron.min.js
+//= require jsERB/browser.min.js
+//= require jsERB/breakpoints.min.js
+//= require jsERB/util.js
+//= require jsERB/main.js
 //= require_tree .
